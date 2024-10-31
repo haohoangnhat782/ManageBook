@@ -1,0 +1,6 @@
+C:\Users\84967\source\repos\ManagaBook\ManagaBook\obj\Debug\net6.0\ManagaBook.csproj.AssemblyReference.cache
+C:\Users\84967\source\repos\ManagaBook\ManagaBook\obj\Debug\net6.0\ManagaBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84967\source\repos\ManagaBook\ManagaBook\obj\Debug\net6.0\ManagaBook.AssemblyInfoInputs.cache
+C:\Users\84967\source\repos\ManagaBook\ManagaBook\obj\Debug\net6.0\ManagaBook.AssemblyInfo.cs
+C:\Users\84967\source\repos\ManagaBook\ManagaBook\obj\Debug\net6.0\ManagaBook.csproj.CoreCompileInputs.cache
+C:\Users\84967\source\repos\ManagaBook\ManagaBook\obj\Debug\net6.0\ManagaBook.MvcApplicationPartsAssemblyInfo.cache

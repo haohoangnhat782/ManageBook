@@ -1,0 +1,17 @@
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\bin\Debug\net6.0\RespositoryLayer.deps.json
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\bin\Debug\net6.0\RespositoryLayer.runtimeconfig.json
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\bin\Debug\net6.0\RespositoryLayer.dll
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\bin\Debug\net6.0\RespositoryLayer.pdb
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.csproj.AssemblyReference.cache
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.AssemblyInfoInputs.cache
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.AssemblyInfo.cs
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.csproj.CopyComplete
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.dll
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\obj\Debug\net6.0\refint\RespositoryLayer.dll
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.pdb
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\obj\Debug\net6.0\RespositoryLayer.genruntimeconfig.cache
+C:\Users\84967\source\repos\ManagaBook\RespositoryLayer\obj\Debug\net6.0\ref\RespositoryLayer.dll
